@@ -13,7 +13,8 @@
     -o-transition: 0.5s all;
 }
 
-html{
+
+html {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
@@ -158,6 +159,10 @@ body{
 
 .diffsec_row{
     position: relative;
+}
+
+.diffsec_row__div{
+    overflow: hidden;
 }
 
 
