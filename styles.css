@@ -13,7 +13,7 @@
     -o-transition: 0.5s all;
 }
 
-html{
+html,body{
     margin: 0;
     padding: 0;
     overflow-x: hidden;
