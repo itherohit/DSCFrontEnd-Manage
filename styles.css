@@ -12,6 +12,12 @@
     -o-transition: 0.5s all;
 }
 
+html{
+    overflow-x: hidden;
+    width: 100%;
+    height: 100vh;
+}
+
 body{
     position: relative;
 }
